@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **leonardoalz/leonardoalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Diego Fernandes 
+# Leonardo Alzamora
 
 Currently studying Artificial Intelligence and Data Science at University of Porto.
 
